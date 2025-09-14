@@ -78,16 +78,6 @@ http://localhost:3133/images/abc123.jpg
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork this repo
-2. Create a new branch (`feature/new-feature`)
-3. Commit changes and submit a PR
-
----
-
 ## 📄 License
 
 MIT License – free to use and modify
